@@ -1,0 +1,2 @@
+//run this cmd to run the main.py and add "/dashboard" to the localhost link and  
+uvicorn main:app --reload
